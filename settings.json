@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TEAMSMC.aternos.me",
+    "ip": "TEAMSMC.aternos.me:27085",
     "port": 27085,
     "version": "1.21.1"
   },
